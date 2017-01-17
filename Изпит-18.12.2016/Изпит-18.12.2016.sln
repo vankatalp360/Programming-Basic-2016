@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Разстояние", "01.Разтояние\01.Разстояние.csproj", "{CECFE398-0800-49A0-AD6A-0FEDB1EC8BE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Смяна на плочки", "02.Смяна на плочки\02.Смяна на плочки.csproj", "{98AEF27A-4D71-44D7-BF9C-DE33FD45C30F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Магазин за цветя", "03.Магазин за цветя\03.Магазин за цветя.csproj", "{DBCDA762-946E-48FE-B966-14E05FC650DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Оценки", "04.Оценки\04.Оценки.csproj", "{C7D09929-6E2B-4D3D-9F0C-D98107E2B4ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Коледна шапка", "05.Коледна шапка\05.Коледна шапка.csproj", "{13B9EAAA-30AE-4336-A7C0-4299D401C2B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Комбинация от букви", "06.Комбинация от букви\06.Комбинация от букви.csproj", "{E3B005BE-F43D-4FCF-853F-10B5DEC15921}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CECFE398-0800-49A0-AD6A-0FEDB1EC8BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CECFE398-0800-49A0-AD6A-0FEDB1EC8BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CECFE398-0800-49A0-AD6A-0FEDB1EC8BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CECFE398-0800-49A0-AD6A-0FEDB1EC8BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98AEF27A-4D71-44D7-BF9C-DE33FD45C30F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98AEF27A-4D71-44D7-BF9C-DE33FD45C30F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98AEF27A-4D71-44D7-BF9C-DE33FD45C30F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98AEF27A-4D71-44D7-BF9C-DE33FD45C30F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBCDA762-946E-48FE-B966-14E05FC650DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCDA762-946E-48FE-B966-14E05FC650DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCDA762-946E-48FE-B966-14E05FC650DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCDA762-946E-48FE-B966-14E05FC650DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7D09929-6E2B-4D3D-9F0C-D98107E2B4ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7D09929-6E2B-4D3D-9F0C-D98107E2B4ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7D09929-6E2B-4D3D-9F0C-D98107E2B4ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7D09929-6E2B-4D3D-9F0C-D98107E2B4ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13B9EAAA-30AE-4336-A7C0-4299D401C2B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13B9EAAA-30AE-4336-A7C0-4299D401C2B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13B9EAAA-30AE-4336-A7C0-4299D401C2B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13B9EAAA-30AE-4336-A7C0-4299D401C2B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3B005BE-F43D-4FCF-853F-10B5DEC15921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3B005BE-F43D-4FCF-853F-10B5DEC15921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3B005BE-F43D-4FCF-853F-10B5DEC15921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3B005BE-F43D-4FCF-853F-10B5DEC15921}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
